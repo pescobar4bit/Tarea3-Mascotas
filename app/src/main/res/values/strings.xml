@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="textobotonfavoritos">5Favoritos</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+    <string name="nombremascotas">Vegas</string>
+    <string name="likesmascota">5</string>
+</resources>
